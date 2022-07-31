@@ -27,14 +27,14 @@ src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 <a href="https://www.linkedin.com/in/pixelboyxl" target="_blank">pixelboyxl</a>
   </li>
   <li>
-  <img alt="Instagram" width="15px" 
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" /> 
-<a href="https://www.instagram.com/therealco_okie" target="_blank">therealco_okie</a>
-  </li>
-  <li>
   <img alt="Telegram" width="15px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/480px-Telegram_logo.svg.png" /> 
 <a href="https://t.me/therealco_okie" target="_blank">therealco_okie</a>
+  </li>
+  <li>
+  <img alt="Instagram" width="15px" 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" /> 
+<a href="https://www.instagram.com/therealco_okie" target="_blank">therealco_okie</a>
   </li>
 </ul>
 
@@ -51,9 +51,14 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
 ![Parcel](https://img.shields.io/badge/Parcel-F7901E?style=for-the-badge&logo=dropbox&logoColor=white)&nbsp;
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)&nbsp;
 ![Babel](https://img.shields.io/badge/Babel-000000?style=for-the-badge&logo=babel&logoColor=F9DC3E)&nbsp;
+![Pixabay](https://img.shields.io/badge/Pixabay-2EC66D?style=for-the-badge&logo=pixabay&logoColor=white)&nbsp;
+![TMDB](https://img.shields.io/badge/The_Movie_Database-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;
+
 
 ⚙️My GitHub analytics:
 
