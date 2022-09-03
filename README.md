@@ -19,7 +19,7 @@
   <li>
   <img alt="Gmail" width="15px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" /> 
-<a href="mailto:dmitrij.kravchenko.1997@gmail.com" target="_blank">dmitrij.kravchenko.1997</a>
+<a href="mailto:dmitrij.kravchenko.1997@gmail.com" target="_blank">dmitrij.kravchenko.1997@gmail.com</a>
   </li>
   <li>
   <img alt="LinkedIn" width="15px" 
