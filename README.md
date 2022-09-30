@@ -58,6 +58,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.pn
 ![Pixabay](https://img.shields.io/badge/Pixabay-2EC66D?style=for-the-badge&logo=pixabay&logoColor=white)&nbsp;
 ![TMDB](https://img.shields.io/badge/The_Movie_Database-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;
+![mockAPI](https://img.shields.io/badge/mockAPI-2A2A2A?style=for-the-badge&logo=monzo&logoColor=white)&nbsp;
 
 
 ⚙️My GitHub analytics:
