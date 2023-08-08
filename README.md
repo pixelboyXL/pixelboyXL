@@ -14,27 +14,27 @@
 🗂️My contacts & social media:
 <ul>
   <li>
-  📱 <a href="tel:+380669343262" target="_blank">+380669343262</a>
+  📱 <a href="tel:+380669343262" target="_blank" rel="noopener noreferrer nofollow">+380669343262</a>
   </li>
   <li>
   <img alt="Gmail" width="15px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" /> 
-<a href="mailto:dmitrij.kravchenko.1997@gmail.com" target="_blank">dmitrij.kravchenko.1997@gmail.com</a>
+<a href="mailto:dmytrokravchenko97@gmail.com" target="_blank" rel="noopener noreferrer nofollow">dmytrokravchenko97@gmail.com</a>
   </li>
   <li>
   <img alt="LinkedIn" width="15px" 
 src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /> 
-<a href="https://www.linkedin.com/in/pixelboyxl" target="_blank">pixelboyxl</a>
+<a href="https://www.linkedin.com/in/pixelboyxl" target="_blank" rel="noopener noreferrer nofollow">pixelboyxl</a>
   </li>
   <li>
   <img alt="Telegram" width="15px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/480px-Telegram_logo.svg.png" /> 
-<a href="https://t.me/therealco_okie" target="_blank">therealco_okie</a>
+<a href="https://t.me/therealco_okie" target="_blank" rel="noopener noreferrer nofollow">therealco_okie</a>
   </li>
   <li>
   <img alt="Instagram" width="15px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" /> 
-<a href="https://www.instagram.com/therealco_okie" target="_blank">therealco_okie</a>
+<a href="https://www.instagram.com/therealco_okie" target="_blank" rel="noopener noreferrer nofollow">therealco_okie</a>
   </li>
 </ul>
 
